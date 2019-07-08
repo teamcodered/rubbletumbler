@@ -4,9 +4,9 @@
 
 A simple tool to help you download and import HDF data into your relational database
 
-###Goals
+### Goals
 + Browse the RDF files available in a HTTP repository
-+ Specify a NASA-style time window to select and download available files
++ Specify a time window to select and download available files
 + Save RDF file data to a database
 
 ## Usage
